@@ -1,0 +1,7 @@
+{
+  "name": "Aquarium",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
